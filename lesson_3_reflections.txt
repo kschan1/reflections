@@ -12,3 +12,6 @@ The system will be able to tell what has since been updated at the next push/pul
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Constant communication would be necessary. GitHub enables easier version control especially in a large working group.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When a project is a collaboration project. This would allow changes to be reviewed for accuracy before being implemented to the master branch.
