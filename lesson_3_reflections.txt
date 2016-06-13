@@ -9,3 +9,6 @@ Fork is creating clone on Github. Clone is for cloning a copy local repo from Gi
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The system will be able to tell what has since been updated at the next push/pull.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Constant communication would be necessary. GitHub enables easier version control especially in a large working group.
